@@ -1,0 +1,10 @@
+{
+  "env": {
+    "DB_USER": "mariovido",
+    "DB_PASSWORD": "mariovido",
+    "DB_NAME": "places",
+    "MAP_API_KEY": "pk.b1d96f7aff6eb8b5ee6a97c32d73bc4c",
+    "JWT_KEY": "supersecret_dont_share",
+    "PORT": 5000
+  }
+}
